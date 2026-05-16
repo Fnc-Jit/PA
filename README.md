@@ -11,6 +11,7 @@
 | **Automated score** | ~72 / 90 |
 | **Retrieval (70 pts)** | 70 / 70 — nearest-neighbour deviation heuristic with local posterior, +0.124 mean Δ |
 | **Anisotropy (20 pts)** | ~2 / 20 — honest Hessian-aware diagonal π, ~1.28× reduction (hard ceiling, 10× needed for full marks) |
+| **Paper** | [`Research Paper.pdf`](Research%20Paper.pdf) |
 | **Quick repro** | `python3 self_check.py --adapter adapters.archecho:Engine --quick` |
 | **Full run** | `python3 run.py --adapter adapters.archecho:Engine --seeds 42 101 202 303 404 --out report.json` |
 | **Rank-1 proof** | `python3 proofs/rank1_full_matrix_test.py` |
@@ -567,6 +568,10 @@ algorithmic.
 ---
 
 ## Part 3 — Design Tie to Paper Theory
+
+> **Reference paper:** [`Research Paper.pdf`](Research%20Paper.pdf) — the
+> PCAM precision-modulated dynamics paper this submission implements
+> against. Theorem and section numbers below refer to this PDF.
 
 **Theorem F3** (precision rescales convergence rates by eigenvalues of ΠH):
 We implement this directly via `diag(H⁻¹)` at true equilibria as the
