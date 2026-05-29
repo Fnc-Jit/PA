@@ -141,7 +141,7 @@ every number in under five minutes.
 
 ---
 
-### `proofs/rank1_full_matrix_test.py` — the smoking gun
+### `proofs/rank1_full_matrix_test.py` - The Fact Pointer
 
 **What it covers**
 
