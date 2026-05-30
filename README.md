@@ -29,7 +29,7 @@
 > See [Part 2 ↓](#part-2--why-anisotropy-caps-at-13-and-what-would-actually-fix-it) and
 > [Proofs ↓](#proofs) for runnable verification.
 
-**GitHub:** <https://github.com/Fnc-Jit/PA>
+**GitHub:** <[https://github.com/Fnc-Jit/Hopfield-Precision-Agent-PCAM]>
 
 ---
 
