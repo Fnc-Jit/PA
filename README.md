@@ -3,7 +3,11 @@
 ### Anvil Hackathon · P-04 · MetaCognition Sponsored Track
 
 ---
-
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Only-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![pytest](https://img.shields.io/badge/Tests-pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)](./tests/)
+[![Hackathon](https://img.shields.io/badge/Anvil%20Hackathon-P--04-6366f1?style=for-the-badge)]()
+---
 ## TL;DR
 
 | | |
